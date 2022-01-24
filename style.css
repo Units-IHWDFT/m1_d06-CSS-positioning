@@ -1,0 +1,24 @@
+.container {
+    background-color: lightblue;
+    padding: 20px;
+  }
+
+  .container > div {
+    padding: 15px;
+  }
+
+  .container span {
+    margin-bottom: 20px;
+  }
+
+  .first {
+    background-color: lightgreen;
+  }
+
+  .second {
+    background-color: lightcoral;
+  }
+
+  .third {
+    background-color: lightgoldenrodyellow;
+  }
